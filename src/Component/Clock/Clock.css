@@ -1,0 +1,8 @@
+h1 {
+  font-size: 100px;
+  color: rgb(4, 214, 230);
+  border: 5px solid rgb(4, 117, 117);
+  padding: 20px;
+  background-color: rgb(35, 47, 53);
+  text-shadow: -3px 4px 6px rgb(4, 117, 117);
+}
